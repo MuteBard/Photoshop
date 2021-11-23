@@ -1,4 +1,7 @@
-# DEV-07,
-#### Tags: []
+# DEV-07, Eraser
+#### Tags: [eraser]
 
-![](../images/DEV-07/DEV-07-A.png)
+
+    Any brush can be an eraser
+
+    pressing the E key should ally you to erase
